@@ -1,0 +1,58 @@
+h1 {
+    font-family: 'Intro Demo', sans-serif;
+    font-weight: 400, Regular;
+    color: black;
+}
+
+header p {
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+.container-header {
+    justify-content: space-between;
+}
+
+.logo-text {
+    font-family: 'Intro Demo', sans-serif;
+}
+
+.button-cart {
+    background-color: blueviolet;
+}
+
+.main-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    margin: 70px;
+}
+
+.main-h1 {
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+.main-page-pic {
+    grid-column: 2/3;
+    grid-row: 1/4;
+    width: 45vw;
+    height: 80vh;
+}
+
+.main-button {
+    grid-column: 1/2;
+    grid-row: 3/4;
+    color: white;
+    font-family: 'Intro Demo', sans-serif;
+    width: 150px;
+}
+
+.main-p {
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+
+
+/*# sourceMappingURL=week8_vr.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,SAAe;EACX,WAAW,EAAE,wBAAwB;EACrC,WAAW,EAAE,YAAY;EACzB,KAAK,EAAE,KAAK;;AAGhB,QAAc;EACV,WAAW,EAAE,oBAAoB;EACjC,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG",
+"sources": ["week8_vr.scss"],
+"names": [],
+"file": "week8_vr.css"
+}

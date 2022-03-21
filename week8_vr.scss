@@ -1,0 +1,22 @@
+%text-style-h1 {
+    font-family: 'Intro Demo', sans-serif;
+    font-weight: 400, Regular;
+    color: black;
+}
+
+%text-style-p {
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+header {
+
+    h1 {
+        @extend %text-style-h1
+    }
+
+    p {
+        @extend %text-style-p
+    }
+}
